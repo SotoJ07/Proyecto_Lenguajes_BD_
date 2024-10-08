@@ -1,8 +1,6 @@
-Proyecto Lenguajes de Bases de Datos - Universidad Fidélitas - Bachillerato en Ingeniería en Sistemas de Computación - Lenguajes de Base de Datos Campus Virtual 2024 Tercer Cuatrimestre 
-
 <h1 align="center"> README De File Systems International </h1>
 
-imagen de portada: [File Systems International.pdf](https://github.com/SotoJ07/EstructuraDeDatos-ProyectoFinalU/files/11943909/File.Systems.International.pdf)
+Proyecto Lenguajes de Bases de Datos - Universidad Fidélitas - Bachillerato en Ingeniería en Sistemas de Computación - Lenguajes de Base de Datos Campus Virtual 2024 Tercer Cuatrimestre 
 
 ***Índice***
 
