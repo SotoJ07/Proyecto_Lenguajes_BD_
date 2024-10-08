@@ -1,6 +1,6 @@
 <h1 align="center"> README De File Systems International </h1>
 
-Proyecto Lenguajes de Bases de Datos - Universidad Fidélitas - Bachillerato en Ingeniería en Sistemas de Computación - Lenguajes de Base de Datos Campus Virtual 2024 Tercer Cuatrimestre 
+Universidad Fidélitas - Bachillerato en Ingeniería en Sistemas de Computación - Lenguajes de Base de Datos Campus Virtual 2024 Tercer Cuatrimestre 
 
 ***Índice***
 
