@@ -6,7 +6,7 @@ Universidad Fidélitas - Bachillerato en Ingeniería en Sistemas de Computación
 
 ***Descripción del proyecto***
 
-El Proyecto se da por la necesidad de la empresa FILE SYSTEMS INTERNATIONAL que desea actualizar sus registros de archivos para un mejor manejo de informacion. 
+El Proyecto se da por la necesidad de la empresa ORACLE GYM que desea actualizar sus registros de archivos para un mejor manejo de informacion. 
 
 ***Estado del proyecto***
 
