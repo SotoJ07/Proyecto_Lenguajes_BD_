@@ -10,7 +10,7 @@ El Proyecto se da por la necesidad de la empresa ORACLE GYM que desea actualizar
 
 ***Estado del proyecto***
 
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto Completo  :construction:
 
 Profesor:  Ing. Jose Pablo Rodríguez Ledezma
 
